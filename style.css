@@ -77,7 +77,7 @@
 
   @media (max-width: 576px) {
     .text{
-      width: 350px;
+      width: 400px;
       display: block;
       white-space: nowrap;
       overflow: hidden;
