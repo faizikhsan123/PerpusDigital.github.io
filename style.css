@@ -75,9 +75,9 @@
     text-overflow: ellipsis;
   }
 
-  @media (max-width: 767px) {
+  @media (max-width: 576px) {
     .text{
-      width: 430px;
+      width: 460px;
       display: block;
       white-space: nowrap;
       overflow: hidden;
